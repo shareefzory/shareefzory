@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shareefzory
-- 👀 I’m interested in Programing
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning software engineer
 
 
